@@ -1,6 +1,6 @@
 // Offline cache for the web/PWA build. Page loads are network-first (so new deploys show up),
 // everything else same-origin is cache-first (Vite asset names are content-hashed).
-const CACHE = 'echo-and-anchor-v1';
+const CACHE = 'echo-and-anchor-v2';
 
 // Precache the page plus the hashed JS/CSS it references, so the first visit already works offline.
 self.addEventListener('install', (e) => {
