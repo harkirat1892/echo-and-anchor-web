@@ -1,0 +1,17 @@
+{
+  "name": "ECHO & ANCHOR — Two Centuries Beneath the Waves",
+  "short_name": "ECHO & ANCHOR",
+  "description": "Swim as a nimble Dolphin scouting for a 212-year-old Bowhead Whale Matriarch across two centuries of changing oceans (1814–2026).",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#04101e",
+  "theme_color": "#04101e",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
